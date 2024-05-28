@@ -13,4 +13,4 @@
     <script src="sketch.js"></script>
     <script src="p5.collide2d.js"></script>
   </body>
-</html>
+</html>.
